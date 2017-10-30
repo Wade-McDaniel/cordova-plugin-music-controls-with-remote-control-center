@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-music-controls-with-remote-control-center",
+  "version": "1.0.0",
+  "description": "<img src='https://github.com/homerours/cosmic/blob/master/screenshots/notification.png' width='564' height='342'>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jvjvjv@github.com/jvjvjv/cordova-music-controls-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvjvjv/cordova-music-controls-plugin/issues"
+  },
+  "homepage": "https://github.com/jvjvjv/cordova-music-controls-plugin#readme"
+}
